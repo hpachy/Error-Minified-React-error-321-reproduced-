@@ -1,0 +1,37 @@
+{
+  "name": "showcase-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@brainhubeu/react-carousel": "^1.15.3",
+    "@emotion/styled": "^10.0.27",
+    "@emotion/styled-base": "^10.0.31",
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "@kunukn/react-collapse": "^2.2.8",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "import-jsx": "^4.0.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-spring": "^8.0.27",
+    "request": "^2.79.0",
+    "sitemap": "^6.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "globby": "^11.0.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.2"
+  }
+}
