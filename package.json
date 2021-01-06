@@ -15,7 +15,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
     "@kunukn/react-collapse": "^2.2.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "import-jsx": "^4.0.0",
     "isomorphic-unfetch": "^3.0.0",
